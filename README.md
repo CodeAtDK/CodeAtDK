@@ -70,6 +70,7 @@ Farmer support platform with weather & chatbot features
 	•	Firebase backend
 
 🔗 Repo: https://github.com/CodeAtDK/Agri-CONNECT
+🔗 APK: https://drive.google.com/file/d/1vyNtRLTSC5t_0bXcVspvPvM9JHTmgawu/view?usp=drive_link
 
 ⸻
 
