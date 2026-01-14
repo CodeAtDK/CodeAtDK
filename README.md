@@ -84,7 +84,7 @@ ADM Education and Welfare Society (Remote)
 
 📫 Connect With Me
 	•	📧 Email: khatavkardhruva@gmail.com
-	•	💼 LinkedIn: (add your LinkedIn link here)
+	•	💼 Phone: +918830448351
 
 <!--
 **CodeAtDK/CodeAtDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
